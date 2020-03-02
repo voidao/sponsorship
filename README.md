@@ -7,4 +7,8 @@
 
 ### What
 
+* Adovacating Distributed Web
+* Building Personal Web
+* Consulting Any Web
+
 ### Why
