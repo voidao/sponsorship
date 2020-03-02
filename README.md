@@ -1,4 +1,4 @@
-# Sponsorship to `[voidao](https://github.com/voidao)`
+# Sponsorship to [voidao](https://github.com/voidao)
 
 > :whale: Appreciating for Growing
 
