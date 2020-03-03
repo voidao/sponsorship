@@ -14,9 +14,10 @@
 * `666 Distributed Personally`  :heavy_check_mark:
 
 > **Advise Web Innovation**
+* `Idea`
+* `Demo`
 
-
-> **Advance Personal Web**
+> **[Advance Personal Web](https://github.com/iMemex/roadmap)**
 
 ### Why
 
