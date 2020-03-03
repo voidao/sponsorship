@@ -10,9 +10,9 @@
 ### What
 
 > **Assist Content Access**
-* `404 Not Found`
-* `503 Service Unavailable`
-* `666 Content Distributed`
+* `404 Not Found`  :heavy_multiplication_x:
+* `503 Service Unavailable`  :heavy_multiplication_x:
+* `666 Distributed`  :heavy_check_mark:
 
 > **Advise Web Innovation**
 
