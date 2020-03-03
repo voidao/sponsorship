@@ -11,7 +11,7 @@
 
 * Assist Content Access
 * Advise Web Innovation
-* Develop Personal Web
+* Advance Personal Web
 
 ### Why
 
