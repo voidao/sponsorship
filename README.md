@@ -5,6 +5,8 @@
 
 ### How
 
+[:yen:](#how)｜[:dollar:](#how)｜[:love_letter:](mailto:voidao@edening.cn)
+
 ### What
 
 * Assist Content Access
@@ -12,7 +14,5 @@
 * Develop Personal Web
 
 ### Why
-
-:whale: ***Web more Personal, Person more Networked***
 
 :house_with_garden:  [Edening: The Distributed Web of People Universe](https://one.edening.net)
