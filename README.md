@@ -10,7 +10,9 @@
 ### What
 
 > **Assist Content Access**
-
+* `404 Not Found`
+* `503 Service Unavailable`
+* `666 Content Distributed`
 
 > **Advise Web Innovation**
 
