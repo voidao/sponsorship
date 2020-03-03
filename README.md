@@ -9,9 +9,9 @@
 
 ### What
 
-* Assist Content Access
-* Advise Web Innovation
-* Advance Personal Web
+- **Assist Content Access**｜`You Ask Me`
+- **Advise Web Innovation**｜`I Give You`
+- **Advance Personal Web**｜`We Do Together`
 
 ### Why
 
