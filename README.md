@@ -5,7 +5,7 @@
 
 ### How
 
-[:yen:](#how)｜[:dollar:](#how)｜[:love_letter:](mailto:voidao@edening.cn)
+[:yen:](#how)• [:dollar:](#how)• [:love_letter:](mailto:henryma@edening.cn)
 
 ### What
 
