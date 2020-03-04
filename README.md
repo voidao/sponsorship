@@ -23,3 +23,5 @@
 ### Why
 
 :house_with_garden:  [Edening: The Distributed Web of People Universe](https://one.edening.net)
+* *Think Big, Start Small*
+* *Personal Support Matters*
