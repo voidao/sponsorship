@@ -5,7 +5,7 @@
 
 ### How
 
-[:yen:](#how)• [:dollar:](#how)• [:love_letter:](mailto:henryma@edening.cn)
+[:money_with_wings:](https://www.patreon.com/voidao)• [:angel:](https://www.patreon.com/voidao)• [:love_letter:](mailto:henryma@edening.cn)
 
 ### What
 
