@@ -19,6 +19,7 @@
 * `Culture`
 
 > **[Advance Personal Web](https://github.com/iMemex/roadmap)**
+* Explorations Recorded Personally 
 
 ### Why
 
